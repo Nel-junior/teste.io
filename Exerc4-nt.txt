@@ -1,0 +1,41 @@
+<HTML>
+   <HEAD>
+   <TITLE>Exercicio 4- Inserindo Imagens.</TITLE>
+   </HEAD>
+
+<BODY>
+   <P><FONT FACE="VERDANA" 
+SIZE="5"COLOR="FF0099">Principais pontos turisticos:</FONT></P>
+
+ <OL><FONT FACE="Calibri" SIZE="4">
+
+<B>
+ <LI>Porto Alegre
+</B>
+ <IMG SRC="C:\Users\nelson.junior\Desktop\HTML\img\Porto_Alegre.png">
+
+    <UL>
+       <LI> Casa de Cultura Mário Quintana 
+       <LI> Jardim Botânico
+       <LI> Parque Maurício Sirotsky Sobrinho 
+       <LI> Lago Guaíba
+    </UL>
+
+<B>
+ <LI>Manaus 
+</B>
+<IMG SRC="C:\Users\nelson.junior\Desktop\HTML\img\Manaus.png">
+
+    <UL>
+       <LI> Encontro das águas 
+       <LI> Palácio Rio Negro
+       <LI> Centro Cultural dos Povos da Amazônia 
+       <LI> Teatro Amazonas 
+    </UL>
+</OL>
+</Font>
+
+<P><FONT FACE="Calibri"SIZE="4">Independente da cidade escolhida, você terá
+opções maravilhosas para curtir suas férias.</FONT></P>
+
+<HTML>
